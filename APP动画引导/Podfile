@@ -1,0 +1,8 @@
+platform:ios, ‘8.0’
+
+target "KHeaderTableView" do
+
+pod 'YYWebImage'
+
+
+end
